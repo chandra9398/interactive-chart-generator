@@ -1,0 +1,7 @@
+OrderID,Product,Category,Amount,CustomerRegion
+1,Smartphone,Electronics,500,North
+2,Headphones,Electronics,100,West
+3,Jacket,Fashion,150,East
+4,Shoes,Fashion,80,South
+5,Laptop,Electronics,900,North
+6,Table,Furniture,250,West
