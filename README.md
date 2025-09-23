@@ -1,9 +1,9 @@
-# Interactive Chart Generator
+# 📊 Interactive Chart Generator
 
-## Overview
-This project allows users to upload a dataset and generate interactive charts using Matplotlib and Seaborn.
+The Interactive Chart Generator is a Streamlit-based web application that allows users to upload datasets and instantly create interactive visualizations without writing code.
 
-## Features
+
+## key  Features
 1. **Upload CSV Dataset:** Users can upload any CSV file.
 2. **Interactive Column Selection:** Select columns for X and Y axes dynamically.
 3. **Chart Types Supported:**
@@ -17,6 +17,8 @@ This project allows users to upload a dataset and generate interactive charts us
 **Click-To-Open-Link**
 https://interactive-chart-generator-pt6kiujmfbxtdk4ahzymtb.streamlit.app/
 
+## 📊 Final Results
+![Dashboard](Final_result_screenshot/Excel_dashboard_E-commerces.png) 
 
 ## Setup Instructions
 1. Clone the repository or download the files.
