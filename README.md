@@ -18,11 +18,10 @@ The Interactive Chart Generator is a Streamlit-based web application that allows
 https://interactive-chart-generator-pt6kiujmfbxtdk4ahzymtb.streamlit.app/
 
 ## 📊 Final Results
-![Dashboard](start.png) 
-![Dashboard](secondi.png)
-![Dashboard](.png)
-![Dashboard](midi.png)
-![Dashboard](end.png)
+![first](start.png) 
+![second](secondi.png)
+![Third](midi.png)
+![fourth](end.png)
 
 ## Setup Instructions
 1. Clone the repository or download the files.
