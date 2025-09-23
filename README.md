@@ -12,6 +12,8 @@ This project allows users to upload a dataset and generate interactive charts us
    - Scatter Plot
    - Histogram
 4. **Real-Time Visualization:** Generate and view charts instantly in the browser.
+## app Link [[streamli]]
+https://interactive-chart-generator-pt6kiujmfbxtdk4ahzymtb.streamlit.app/
 
 ## Setup Instructions
 1. Clone the repository or download the files.
